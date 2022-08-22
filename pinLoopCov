@@ -1,0 +1,2 @@
+#!/bin/sh
+/mnt/bigdata/pintools/pin-3.16/pin -t /mnt/bigdata/pintools/obj-intel64/pinLoopCov.so -- $@
